@@ -11,5 +11,5 @@
 ![Cкриншот](https://storge.pic2.me/upload/758/5f7f9695581832.92820477.jpg)
 >Умом Россию не понять
 ```html
-<meta name="viewport" content="width=device
+<meta name="viewport" content="width=device">
 ```
