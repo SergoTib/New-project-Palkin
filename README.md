@@ -1,1 +1,11 @@
 # New-project-Palkin
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>это мой проект</p>
+</body>
+</html>
